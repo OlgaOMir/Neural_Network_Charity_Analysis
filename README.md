@@ -22,7 +22,7 @@ The data set contained the metadata for over 34,000 organizations that have rece
 
 ## Results
 
-After processing the data, I designed a deep learning model to predict if a funded organization will be successful based on the features in the dataset using TensorFlow. After a successful model execution with nn.fit() function, 
+After processing the data, I designed a deep learning model to predict if a funded organization will be successful based on the features in the dataset using TensorFlow. After a successful model execution with nn.fit() function, the loss score was 72% and accuracy 44%. 
 
 
 
